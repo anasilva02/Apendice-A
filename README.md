@@ -1,4 +1,4 @@
-# Apendice B - Script Comentado
+# Apendice A - Script Comentado
 # Trabalho de Conclusão de Curso (Administração) apresentado à Universidade Federal do Espirito Santo
 # Métodos Quantitativos de Previsão Combinados: Aplicação na Rede de Supermercado Sanji (2022)
 # Decomposição de Series Temporais
